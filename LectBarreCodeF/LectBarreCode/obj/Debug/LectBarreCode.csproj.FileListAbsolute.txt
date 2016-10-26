@@ -1,0 +1,36 @@
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\bin\Debug\LectBarreCode.exe.config
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\bin\Debug\LectBarreCode.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\bin\Debug\LectBarreCode.pdb
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Debug\LectBarreCode.csprojResolveAssemblyReference.cache
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Debug\LectBarreCode.frmFacture.resources
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Debug\LectBarreCode.Properties.Resources.resources
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Debug\LectBarreCode.csproj.GenerateResource.Cache
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Debug\LectBarreCode.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Debug\LectBarreCode.pdb
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\bin\Debug\LectBarreCode.exe.config
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\obj\Debug\LectBarreCode.exe
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\obj\Debug\LectBarreCode.pdb
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\bin\Debug\LectBarreCode.exe
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\bin\Debug\LectBarreCode.pdb
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\obj\Debug\LectBarreCode.csprojResolveAssemblyReference.cache
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\obj\Debug\LectBarreCode.frmFacture.resources
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\obj\Debug\LectBarreCode.Properties.Resources.resources
+C:\Users\Pascal\Desktop\CEGEP\session 3\COMMUNICATION PAR ORDINATEUR 420-1C5-LL\LectBarreCode18\LectBarreCode\obj\Debug\LectBarreCode.csproj.GenerateResource.Cache
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\bin\Debug\LectBarreCode.exe.config
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.exe
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.pdb
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\bin\Debug\LectBarreCode.exe
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\bin\Debug\LectBarreCode.pdb
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.csprojResolveAssemblyReference.cache
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.frmFacture.resources
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.Properties.Resources.resources
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.csproj.GenerateResource.Cache
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\bin\Debug\LectBarreCode.exe.config
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.exe
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.pdb
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\bin\Debug\LectBarreCode.exe
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\bin\Debug\LectBarreCode.pdb
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.csprojResolveAssemblyReference.cache
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.frmFacture.resources
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.Properties.Resources.resources
+C:\Users\Charles-Isaac\Desktop\Shool\BarreCode\LectBarreCode_ModPA\LectBarreCode\obj\Debug\LectBarreCode.csproj.GenerateResource.Cache

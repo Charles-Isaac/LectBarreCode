@@ -1,0 +1,18 @@
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\bin\Release\LectBarreCode.exe.config
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\bin\Release\LectBarreCode.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\bin\Release\LectBarreCode.pdb
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Release\LectBarreCode.frmFacture.resources
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Release\LectBarreCode.Properties.Resources.resources
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Release\LectBarreCode.csproj.GenerateResource.Cache
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Release\LectBarreCode.exe
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Release\LectBarreCode.pdb
+c:\users\charles-isaac\documents\visual studio 2015\Projects\LectBarreCode\LectBarreCode\obj\Release\LectBarreCode.csprojResolveAssemblyReference.cache
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\bin\Release\LectBarreCode.exe.config
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\bin\Release\LectBarreCode.exe
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\bin\Release\LectBarreCode.pdb
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Release\LectBarreCode.csprojResolveAssemblyReference.cache
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Release\LectBarreCode.frmFacture.resources
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Release\LectBarreCode.Properties.Resources.resources
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Release\LectBarreCode.csproj.GenerateResource.Cache
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Release\LectBarreCode.exe
+C:\Users\Charles-Isaac\Desktop\LectBarreCode_ModPA\LectBarreCode\obj\Release\LectBarreCode.pdb
